@@ -1,1 +1,2 @@
 *.kicad* linguist-language=KiCAD
+*.kicad_pcb linguist-detectable
