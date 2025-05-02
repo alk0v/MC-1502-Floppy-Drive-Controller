@@ -1,2 +1,7 @@
-*.kicad* linguist-language=KiCAD
-*.kicad_pcb linguist-detectable
+# KiCad Schematic source file
+*.kicad_sch linguist-detectable=true
+*.kicad_sch linguist-documentation=false
+*.kicad_sch linguist-language=KiCad-Schematic
+
+#*.kicad* linguist-language=KiCAD
+#*.kicad_pcb linguist-detectable
